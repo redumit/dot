@@ -1,0 +1,24 @@
+{
+  "home": "Home",
+  "sync":"sync",
+  "today":"Today",
+  "service":"Services",
+  "product": "Product",
+  "sallary":"Sallary",
+  "otherexpense":"Expence",
+  "loan":"Loan",
+  "report":"Analitycs",
+  "setting":"Settings",
+  "language":"Language",
+  "help":"help",
+  "general":"General",
+  "account":"Account",
+  "privacy":"Privacy",
+  "aboutus": "About Us",
+  "generate": "Generate",
+  "material": "Materials",
+  "updateprofile": "Update Profile",
+  "cancel": "cancel",
+  "update": "update"
+    
+  }

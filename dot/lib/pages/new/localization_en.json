@@ -1,0 +1,18 @@
+{
+    "home": "Home",
+    "sync":"sync",
+    "today":"Today",
+    "service":"Services",
+   "product": "Product",
+    "sallary":"Sallary",
+    "expence":"Expence",
+    "loan":"Loan",
+    "report":"Analitycs",
+    "setting":"Settings",
+    "language":"Language",
+    "help":"help",
+    "general":"General",
+    "account":"Account",
+    "privacy":"Privacy"
+    
+  }
